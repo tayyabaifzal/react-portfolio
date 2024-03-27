@@ -1,0 +1,55 @@
+#about.row {
+    margin-top: 180px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+
+.row p{
+    line-height: 40px;
+}
+
+.btn {
+    background-color: #323232;
+    padding: 0;
+    border-radius: 12px;
+
+}
+
+button {
+    background-color: #323232;
+    color: #FAF5E9;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px solid;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: #FAF5E9;
+    color: #323232;
+    transition: 0.7s;
+    /* color: #323232; */
+}
+
+/* Styles for the Skills Section */
+.skills-icons {
+    display: flex; /* Use flexbox */
+    justify-content: space-around; /* Evenly distribute items along the main axis */
+    align-items: center; /* Center items vertically */
+    flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
+  }
+  
+  .skill {
+    display: flex; /* Use flexbox */
+    flex-direction: column; /* Arrange icon and text vertically */
+    align-items: center; /* Center items horizontally */
+    margin-bottom: 20px; /* Adjust spacing between skills */
+  }
+  
+  .skill span {
+    margin-top: 5px; /* Add some space between icon and text */
+  }
+  
