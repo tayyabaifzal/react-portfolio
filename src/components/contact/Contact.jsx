@@ -30,17 +30,13 @@ const App = () => {
     };
 
     return (
-
         <div id="contact" className="mt-3">
             <div className="text-center">
                 <h1 className="icon mb-3">Contact Me</h1>
                 <a href="https://github.com/tayyabaifzal" className="con-btn btn-dark me-2" target="_blank" rel="noopener noreferrer">GitHub</a>
-                <a href="https://www.linkedin.com/in/tayyaba-ifzal-62b997211" className="con-btn btn-primary me-2" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="www.linkedin.com/in/tayyabaifzal" className="con-btn btn-primary me-2" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a href="mailto:tayyaba.afzal@gmail.com" className="con-btn btn-danger">Email</a>
             </div>
-
-
-
             <div className="mb-5">
                 <Form onSubmit={handleOnSubmit}>
                     <Form.Field

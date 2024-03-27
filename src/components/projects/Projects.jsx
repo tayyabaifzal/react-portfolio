@@ -1,5 +1,4 @@
 import React from 'react';
-
 import schedular from '../../assets/ss2.png';
 import wd from '../../assets/1.png';
 import bx from '../../assets/home-page.png';
@@ -7,7 +6,6 @@ import dp from '../../assets/1.gif';
 import jf from '../../assets/jf.png';
 import pg from '../../assets/5.png';
 import './project.css';
-// import Skills from '../skills';
 
 const projects = [
   {
@@ -26,7 +24,7 @@ const projects = [
     image: jf
   },
 
-  
+
   {
     title: "Daily Planner App",
     description: "HTML, CSS, JavaScript",
@@ -34,7 +32,7 @@ const projects = [
     deployedLink: "https://tayyabaifzal.github.io/Daily-Planner-App/",
     image: dp
   },
- 
+
   {
     title: "Weather Dashboard",
     description: "HTML, CSS, JavaScript, API",
@@ -42,7 +40,7 @@ const projects = [
     deployedLink: "https://tayyabaifzal.github.io/Weather-Dashboard/",
     image: wd,
   },
- 
+
 
   {
     title: "Password Generator",
@@ -78,11 +76,10 @@ export default function Projects() {
               <strong>Repo:</strong> <a href={project.link}>GitHub</a>
             </p>
             <p>
-            <strong>Skills Used:</strong> {project.description}
-              {/* <strong>Skills used:</strong> <a href={project.description}></a> */}
+              <strong>Skills Used:</strong> {project.description}
             </p>
           </div>
-         
+
         </div>
 
       ))
