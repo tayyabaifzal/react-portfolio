@@ -1,4 +1,5 @@
 import React from 'react';
+
 import schedular from '../../assets/ss2.png';
 import wd from '../../assets/1.png';
 import bx from '../../assets/home-page.png';
@@ -6,6 +7,7 @@ import dp from '../../assets/1.gif';
 import jf from '../../assets/jf.png';
 import pg from '../../assets/5.png';
 import './project.css';
+// import Skills from '../skills';
 
 const projects = [
   {
@@ -80,12 +82,12 @@ export default function Projects() {
               {/* <strong>Skills used:</strong> <a href={project.description}></a> */}
             </p>
           </div>
+         
         </div>
 
       ))
       }
-
-    </div >
+    </div>
   );
 }
 

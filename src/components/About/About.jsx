@@ -8,9 +8,9 @@ export default function About() {
             <div className="row" id="about">
                 <div className="intro col-md-8">
                     <h2 className="title">Hi,</h2>
-                    <p>
-                        Weicome to my portfolio.I am Tayyaba Ifzal, a psychologist and a beginner frontend developer. I am looking to start my career as a front-end developer.
-                    </p>
+                    <p>Weicome to my portfolio. </p>
+                    <p> I am Tayyaba Ifzal, a Passionate Psychologist Transitioning to Front-End Developer: Bridging Humanity with Technology. </p>
+                    <p>I am looking to start my career as a front-end developer.</p>
                 
 
                     <p className='cv-text'>
