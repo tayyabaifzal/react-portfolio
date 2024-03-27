@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #DDD0C8;
+}
+
+.container-fluid {
+    background-color: #DDD0C8;
+    padding: #DDD0C8;
+    align-content: center;
+}
+
+.container-fluid h1{
+    padding-left: 30px;
+}
+
+.collapse{
+    flex-direction:row-reverse ;
+    padding-right: 30px;
+    font-size: 18px;
+}
+
+.nav-link{
+    align-items: right;
+    float: right;
+    justify-content: right;
+}
+
+.nav-link a{
+    color: #323232 ;
+
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    transition: 0.7s;;
+
+}
