@@ -3,7 +3,7 @@
 
 ## Description
 
-This portfolio site designed to showcase my skills and expertise to the clients and employers. The webpageinclude all the necessary infrmation about myself such as my intoduction, resume, projects and resources to contact me. 
+This portfolio site designed to showcase my skills and expertise to the clients and employers. The webpage include all the necessary information about myself such as my intoduction, resume, projects and resources to contact me. The portfolio includes a working contact form throuh which inquiries can be sent directly to my email.
 
 ![](/src/assets/abt.png)
 
