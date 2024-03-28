@@ -19,7 +19,7 @@ export default function About() {
                     <a href="assets\docs\TayyabaCV.pdf" rel="noopener noreferrer" className="btn btn-primary btn-download" ><button> MY CV </button></a>
                 </div>
                 <div className='col-md-4'>
-                    <img src="assets/images/ava.png" className="img-fluid" />
+                    <img src="assets/images/ava.png" className="img-fluid" alt="girl"/>
                 </div>
             </div>
         </div>

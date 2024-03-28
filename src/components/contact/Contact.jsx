@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import emailjs from 'emailjs-com';
 import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import Swal from 'sweetalert2';
