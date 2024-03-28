@@ -5,11 +5,11 @@
 
 This portfolio site designed to showcase my skills and expertise to the clients and employers. The webpageinclude all the necessary infrmation about myself such as my intoduction, resume, projects and resources to contact me. 
 
-![Alt text](/src/assets/abt.png)
+![](/src/assets/abt.png)
 
-![Alt text](/src/assets/cc.png)
+![](/src/assets/cc.png)
 
-![Alt text](/src/assets/prg.pngs)
+![](/src/assets/prg.pngs)
 
 ## Installation:
 To use the app, 
