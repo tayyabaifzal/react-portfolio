@@ -28,7 +28,7 @@ https://github.com/tayyabaifzal/react-portfolio
 
 Deployed link of the app:
 
-
+https://main--tayyabaifzal.netlify.app/
 
 ## Contact
 For further suggestions or complaints about the app, contact via github repo shown below
