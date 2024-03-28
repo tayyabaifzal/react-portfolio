@@ -17,7 +17,7 @@ To use the app,
 - Clone the repo to your machine. 
 - you will need to install [Node](https://www.npmjs.com/package/inquirer) and all the dependencies including [Inquirer](https://www.npmjs.com/package/inquirer). The dependencies call also be install by running 'npm i' in the terminal. 
 - Run development server using 'npm start'.
-s
+
 
 ## Links:
 You can access the code via github repo linked below:
