@@ -9,7 +9,7 @@ This portfolio site designed to showcase my skills and expertise to the clients 
 
 ![](/src/assets/cc.png)
 
-![](/src/assets/prg.pngs)
+![](/src/assets/prg.png)
 
 ## Installation:
 To use the app, 
